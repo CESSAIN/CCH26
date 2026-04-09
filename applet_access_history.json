@@ -1,0 +1,47 @@
+{
+  "applets": [{
+    "lastAccessTime": "2026-04-09T01:51:23.777998Z",
+    "firstAccessTime": "2026-03-15T20:09:16.278280Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "1bdbceab-e576-4aba-84df-730dadb6dc49"
+      }
+    },
+    "name": "CCH - Centro Control Hitos",
+    "description": "A comprehensive flight operation milestone management system for LATAM airline agents, featuring real-time tracking, supervisor task assignment, and operational KPIs."
+  }, {
+    "lastAccessTime": "2026-04-08T14:49:13.216765Z",
+    "firstAccessTime": "2026-04-08T14:41:54.575486Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "d0341577-c062-47e1-9450-cd8d6c36b7d2"
+      }
+    },
+    "name": "Seguimiento Wing Walker AEP",
+    "description": "Sistema corporativo para la gestión y seguimiento de Wing Walkers en el Aeroparque Jorge Newbery (AEP), con filtros avanzados, KPIs e informes descargables."
+  }, {
+    "lastAccessTime": "2026-04-08T14:35:02.197867Z",
+    "firstAccessTime": "2026-04-04T02:35:11.630460Z",
+    "source": {
+      "sourceType": "SPANNER",
+      "spanner": {
+        "id": "3373d163-88e2-4811-b193-ae9e66f6ccf6"
+      }
+    },
+    "name": "Remix: CCH - Centro Control Hitos",
+    "description": "A comprehensive flight operation milestone management system for LATAM airline agents, featuring real-time tracking, supervisor task assignment, and operational KPIs."
+  }, {
+    "lastAccessTime": "2026-03-22T16:57:32.486425Z",
+    "firstAccessTime": "2026-01-09T15:02:48.262808Z",
+    "source": {
+      "drive": {
+        "resourceId": "1r02SvfLj_8Rwm9tv1Vz4ACC3SIc72O7x",
+        "revisionId": "0B95pX0rNMt9_ZjB2Vmk1R0RjMnVBaWFNenJUVmdYSU40QXVvPQ"
+      }
+    },
+    "name": "Rampa_Net - Gestión de Roles de Vuelo",
+    "description": "Aplicación profesional para la gestión y visualización de roles de turnos de equipos de operaciones de vuelo, con analíticas avanzadas y vistas múltiples."
+  }]
+}
